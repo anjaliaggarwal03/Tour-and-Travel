@@ -1,0 +1,18 @@
+{
+  "name": "travel-website",
+  "version": "1.0.0",
+  "description": "Tour ET is an innovative web application designed to transform travel experiences in Ethiopia. Leveraging the MERN stack and Bootstrap, this platform offers an intuitive and comprehensive approach to discovering Ethiopia, from city escapades to historical adventures.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "mongoose": "^8.1.2",
+    "nodemon": "^3.0.3"
+  }
+}
